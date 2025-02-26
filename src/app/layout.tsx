@@ -21,7 +21,7 @@ export const metadata: Metadata = {
         title: 'Bread Dev',
         description: 'Welcome to my personal portfolio!',
         type: 'website',
-        images: ['/opengraph-image.png']
+        images: ['/opgraph.png']
     },
     icons: [
         {
